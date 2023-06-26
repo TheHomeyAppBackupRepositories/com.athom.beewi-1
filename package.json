@@ -1,0 +1,8 @@
+{
+  "name": "com.athom.bleplayground",
+  "version": "1.0.2",
+  "main": "app.js",
+  "devDependencies": {
+    "homey": "^2.9.2"
+  }
+}
